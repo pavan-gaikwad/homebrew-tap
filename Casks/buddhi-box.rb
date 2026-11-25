@@ -8,7 +8,6 @@ cask "buddhi-box" do
   homepage "https://buddhibox.app/"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :catalina"
 
   app "Buddhi Box.app"
 
