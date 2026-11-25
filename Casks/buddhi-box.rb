@@ -2,7 +2,7 @@ cask "buddhi-box" do
   version "0.1.10"
   sha256 "fcf599a1645037bfbd2052edccaa9ab8a70b8776ea9ebf9547ee7dddaa2ece00"
 
-  url "https://models.buddhibox.app/app-downloads/v0.1.10/Buddhi.Box-0.1.10-macos-public.dmg"
+  url "https://models.buddhibox.app/app-downloads/v#{version}/Buddhi.Box-#{version}-macos-public.dmg"
   name "Buddhi Box"
   desc "Private, offline speech dictation for Apple Silicon Macs"
   homepage "https://buddhibox.app/"
