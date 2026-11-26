@@ -1,6 +1,6 @@
 cask "buddhi-box" do
-  version "0.2.0"
-  sha256 "6cb572188942b6b34ec8fde6da0d376d45447996fceaca0a718ab4bcf22c99ef"
+  version "0.3.0"
+  sha256 "fdb681bd3080c6415fe9af9d355dcd265dc40dab888534d855ad4a8b84d8d6ad"
 
   url "https://models.buddhibox.app/app-downloads/v#{version}/Buddhi.Box-#{version}-macos-public.dmg"
   name "Buddhi Box"
